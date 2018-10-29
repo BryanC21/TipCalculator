@@ -1,7 +1,6 @@
 # Pre-work - TipCalculator
 
 TipCalculator is a tip calculator application for iOS.
-*Due to issues related to me having to switch computers too often (school computers) I had to upload the updated version of my code which included the optionals as its own folder with the description saying those are the optionals. The other 2 folders are now unnecessary. 
 
 Submitted by: Bryan Caldera
 
